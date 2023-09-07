@@ -1,4 +1,7 @@
 ### Hi there 👋
+I’m currently a fourth year computer engineering student at SDSU.
+I'm also currently interning at SectorQ which is an engineering subdivison of Martinez and Turek. 
+I'm working on a EMG Biofeedback Rehabilitation Device for my senior project. It aims to help stroke patients recover movement in there arms by taking their working arm and reflecting that movement onto the non-working arm using buzzers in hopes of regaining movement.
 
 <!--
 **SamKull/SamKull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
